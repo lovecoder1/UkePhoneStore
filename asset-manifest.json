@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/UkePhoneStore/static/css/main.ffe342b2.chunk.css",
+    "main.js": "/UkePhoneStore/static/js/main.df28568c.chunk.js",
+    "main.js.map": "/UkePhoneStore/static/js/main.df28568c.chunk.js.map",
+    "runtime-main.js": "/UkePhoneStore/static/js/runtime-main.67ed12e7.js",
+    "runtime-main.js.map": "/UkePhoneStore/static/js/runtime-main.67ed12e7.js.map",
+    "static/js/2.10fbf997.chunk.js": "/UkePhoneStore/static/js/2.10fbf997.chunk.js",
+    "static/js/2.10fbf997.chunk.js.map": "/UkePhoneStore/static/js/2.10fbf997.chunk.js.map",
+    "index.html": "/UkePhoneStore/index.html",
+    "static/css/main.ffe342b2.chunk.css.map": "/UkePhoneStore/static/css/main.ffe342b2.chunk.css.map",
+    "static/js/2.10fbf997.chunk.js.LICENSE.txt": "/UkePhoneStore/static/js/2.10fbf997.chunk.js.LICENSE.txt",
+    "static/media/GalaxyA325G.90ae9aea.png": "/UkePhoneStore/static/media/GalaxyA325G.90ae9aea.png",
+    "static/media/GalaxyS22Ultra.2eab3838.png": "/UkePhoneStore/static/media/GalaxyS22Ultra.2eab3838.png",
+    "static/media/GalaxyZFold35G.eefdccdc.png": "/UkePhoneStore/static/media/GalaxyZFold35G.eefdccdc.png",
+    "static/media/HomePagePhones.c97e0fea.jpg": "/UkePhoneStore/static/media/HomePagePhones.c97e0fea.jpg",
+    "static/media/MOTOROLAMotoG.bce71d51.png": "/UkePhoneStore/static/media/MOTOROLAMotoG.bce71d51.png",
+    "static/media/MorePhones.5a8f4658.png": "/UkePhoneStore/static/media/MorePhones.5a8f4658.png",
+    "static/media/NokiaG505G.55a2880c.png": "/UkePhoneStore/static/media/NokiaG505G.55a2880c.png",
+    "static/media/aboutImage.881ad94a.png": "/UkePhoneStore/static/media/aboutImage.881ad94a.png",
+    "static/media/contactImage.8bb36c0d.png": "/UkePhoneStore/static/media/contactImage.8bb36c0d.png",
+    "static/media/iphone11.86a527b0.png": "/UkePhoneStore/static/media/iphone11.86a527b0.png",
+    "static/media/iphone12.bd9c0deb.png": "/UkePhoneStore/static/media/iphone12.bd9c0deb.png",
+    "static/media/iphone13.19ec823e.png": "/UkePhoneStore/static/media/iphone13.19ec823e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67ed12e7.js",
+    "static/js/2.10fbf997.chunk.js",
+    "static/css/main.ffe342b2.chunk.css",
+    "static/js/main.df28568c.chunk.js"
+  ]
+}
